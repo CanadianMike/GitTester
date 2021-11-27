@@ -46,7 +46,7 @@ class CustomDesktopPane extends JDesktopPane
      dp.add( jframe );  
      jframe.setVisible(true);         
      y += 85;  
-     //wow epic
+     //wow epic gamer???
     }  
   }  
 } 
